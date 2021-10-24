@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 ## Profiles
 <img src="(https://user-images.githubusercontent.com/65935002/138584527-eb1d0fd8-e4aa-43ab-b688-bfdb55ca0317.png)
-" width 10 height 10>
+" width "10" height "10">
  [LeetCode](https://leetcode.com/vivekumar175/) 
  - [LinkedIn](https://www.linkedin.com/in/vivek-kumar-b670b11a1/)
  - [CodeChef](https://www.codechef.com/users/vivek_019) 
