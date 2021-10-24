@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 ## Profiles
 
 
- - <img src="https://user-images.githubusercontent.com/65935002/138584527-eb1d0fd8-e4aa-43ab-b688-bfdb55ca0317.png" width="20" height="20"> [LeetCode](https://leetcode.com/vivekumar175/) 
+ - <img src="https://user-images.githubusercontent.com/65935002/138584736-e9eaaedf-acaa-4e65-9fcd-0b7f69633bb6.png" width="20" height="10"> [LeetCode](https://leetcode.com/vivekumar175/) 
  - [LinkedIn](https://www.linkedin.com/in/vivek-kumar-b670b11a1/)
  - [CodeChef](https://www.codechef.com/users/vivek_019) 
+
+
