@@ -15,7 +15,6 @@
 📫 How to reach me: [Email](https://vivekumar175@gmail.com)
 
 😄 Pronouns: He/His
-
 ⚡ Fun fact: I am big procastinator 
 
 <h3 align="left">Connect with me:</h3>
