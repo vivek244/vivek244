@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am big procastinator 
 
-##Profiles
+## Profiles
+<img src="![image](https://user-images.githubusercontent.com/65935002/138584527-eb1d0fd8-e4aa-43ab-b688-bfdb55ca0317.png)
+" width 10 height 10>
  -![image](https://user-images.githubusercontent.com/65935002/138584394-6299d124-4077-491f-ac56-58d06d07b7e9.png)
  [LeetCode](https://leetcode.com/vivekumar175/) 
  - [LinkedIn](https://www.linkedin.com/in/vivek-kumar-b670b11a1/)
