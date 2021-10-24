@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek244&label=Profile%20views&color=0e75b6&style=flat" alt="vivek244" /> </p>
 🔭 I’m currently working on web deveoplment
+
 🌱 I’m currently learning react js
 
 👯 I’m looking to collaborate on java projects
@@ -14,6 +15,7 @@
 📫 How to reach me: [Email](https://vivekumar175@gmail.com)
 
 😄 Pronouns: He/His
+
 ⚡ Fun fact: I am big procastinator 
 
 <h3 align="left">Connect with me:</h3>
