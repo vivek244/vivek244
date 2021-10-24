@@ -1,7 +1,9 @@
-### Hi , Vivek Kumar 👋
 
-Here are some ideas to get you started:
 
+<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
+<h3 align="center">B.Tech CS |A passionate programmer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek244&label=Profile%20views&color=0e75b6&style=flat" alt="vivek244" /> </p>
 - 🔭 I’m currently working on web deveoplment
 - 🌱 I’m currently learning react js
 - 👯 I’m looking to collaborate on java projects
@@ -9,11 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Email](https://vivekumar175@gmail.com)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I am big procastinator 
-
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
-<h3 align="center">B.Tech CS |A passionate programmer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek244&label=Profile%20views&color=0e75b6&style=flat" alt="vivek244" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
