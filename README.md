@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek244&label=Profile%20views&color=0e75b6&style=flat" alt="vivek244" /> </p>
 🔭 I’m currently working on web deveoplment
-
 🌱 I’m currently learning react js
 
 👯 I’m looking to collaborate on java projects
